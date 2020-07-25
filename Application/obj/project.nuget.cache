@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Q0Yz4YpQvFx1mucmrwZk2+8udvnRxrg3qZL4Yi0U1lWHDv3ndL+pwHtmNpvZc/SpesbO2maTpO1CG4imLr1Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\seno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
