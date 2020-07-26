@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OBf8hzJTYoSzdEhnL3jy20vWTy4X7bg5ABjFIbm/igPMP35+WvO/3+I2NqPiCbcypX75UVDS7FshgN2Z7f43oA==",
+  "dgSpecHash": "m5aOBukdpC+m6MMuPt883xrLeiLj9KS4xh/btBlk39dfQfLDKVkU90EfQeJb96KA7meic1S7iaj5v2DHc6da4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\seno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\seno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
