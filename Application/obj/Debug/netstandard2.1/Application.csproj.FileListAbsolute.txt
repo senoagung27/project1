@@ -12,3 +12,17 @@ C:\Users\seno\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\App
 C:\Users\seno\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
 C:\Users\seno\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.dll
 C:\Users\seno\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.pdb
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\INTEL NUC\Documents\GitHub\Project1\Application\obj\Debug\netstandard2.1\Application.pdb

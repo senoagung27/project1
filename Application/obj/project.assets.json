@@ -1307,19 +1307,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\seno\\.nuget\\packages\\": {}
+    "C:\\Users\\INTEL NUC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\seno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Application\\obj\\",
+      "projectPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\INTEL NUC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\seno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\INTEL NUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -1330,11 +1330,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj"
+            "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj"
+            "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj"
             }
           }
         }
