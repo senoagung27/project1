@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj": {
+    "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\seno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\INTEL NUC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\seno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\INTEL NUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -54,17 +54,17 @@
         }
       }
     },
-    "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\seno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\INTEL NUC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\seno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\INTEL NUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\seno\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj"
+              "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Project1\\Domain\\Domain.csproj"
               }
             }
           }
